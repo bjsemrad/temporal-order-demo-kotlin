@@ -1,4 +1,4 @@
-package com.semrad.order.activities
+package com.semrad.workflow.activities
 
 import com.semrad.order.Order
 import com.semrad.order.fraud.FraudDecision
