@@ -27,6 +27,7 @@ dependencies {
 
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
     implementation("io.temporal:temporal-sdk:1.24.1")
+    implementation("org.apache.kafka:kafka-clients:3.1.0")
     implementation(libs.guava)
 }
 
